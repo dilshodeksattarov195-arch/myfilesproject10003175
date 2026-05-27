@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userealidate",
+        "uuid": 10918825,
+        "checksum": "q9gql"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
